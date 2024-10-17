@@ -41,6 +41,3 @@ Ms Word. Базовое форматирование в Markdown.
 
 Быстрый набор текста на русском языке.
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTM0MTgyNzJdfQ==
--->
